@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Dunbar's Blog"
 permalink: /blog/
+---
 
 ## The Dunbar Blog
 
