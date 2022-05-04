@@ -2,6 +2,7 @@
 layout: page
 title: "Welcome to Dunbar"
 date: 2022-05-04 12:34:56 -0000
+permalink: /launch/
 ---
 
 **“Dunbar is the lowest-friction event planning tool.”**
